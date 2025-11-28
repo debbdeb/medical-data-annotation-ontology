@@ -1,0 +1,21 @@
+﻿instance_name,class_uri,annotation_property_uri,annotation_value
+Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_300
+Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#code,C99999
+Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://www.w3.org/2000/01/rdf-schema#label,Dural based lesion - left frontal
+Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Tumor_size_diameter,> 4cm
+Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#midline,left frontal
+Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Who_Grade_I,TRUE
+,,,
+Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_301
+Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#code,C99998
+Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://www.w3.org/2000/01/rdf-schema#label,Dural based lesion - right parietal
+Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Tumor_size_diameter,3-4cm
+Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#midline,right parietal
+Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Who_Grade_II,TRUE
+,,,
+Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_302
+Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#code,C99997
+Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://www.w3.org/2000/01/rdf-schema#label,Dural based lesion - posterior fossa
+Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Tumor_size_diameter,> 4cm
+Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#midline,posterior fossa
+Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Who_Grade_I,TRUE

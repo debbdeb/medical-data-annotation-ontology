@@ -1,21 +1,11 @@
-﻿instance_name,class_uri,annotation_property_uri,annotation_value
-Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_300
-Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#code,C99999
-Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://www.w3.org/2000/01/rdf-schema#label,Dural based lesion - left frontal
-Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Tumor_size_diameter,> 4cm
-Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#midline,left frontal
-Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Who_Grade_I,TRUE
-,,,
-Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_301
-Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#code,C99998
-Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://www.w3.org/2000/01/rdf-schema#label,Dural based lesion - right parietal
-Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Tumor_size_diameter,3-4cm
-Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#midline,right parietal
-Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Who_Grade_II,TRUE
-,,,
-Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_302
-Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#code,C99997
-Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://www.w3.org/2000/01/rdf-schema#label,Dural based lesion - posterior fossa
-Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Tumor_size_diameter,> 4cm
-Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#midline,posterior fossa
-Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#Who_Grade_I,TRUE
+﻿instance_name,class_uri,annotation_property_uri,annotation_value,mri_instance_name,mri_file_uri,Tumor_size_diameter,Who_Grade_I,Who_Grade_II
+Dural_Meningioma_1,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_300,mri_image_01,image01.dcm,> 4cm,TRUE,FALSE
+Dural_Meningioma_2,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_301,mri_image_02,image02.dcm,3-4cm,FALSE,TRUE
+Dural_Meningioma_3,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_302,mri_image_03,image03.dcm,> 4cm,TRUE,FALSE
+Dural_Meningioma_4,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_303,mri_image_04,image04.dcm,2-3cm,FALSE,FALSE
+Dural_Meningioma_5,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_304,mri_image_05,image05.dcm,< 2cm,TRUE,FALSE
+Dural_Meningioma_6,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_305,mri_image_06,image06.dcm,4-5cm,FALSE,TRUE
+Dural_Meningioma_7,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_306,mri_image_07,image07.dcm,> 5cm,TRUE,FALSE
+Dural_Meningioma_8,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_307,mri_image_08,image08.dcm,3cm,FALSE,FALSE
+Dural_Meningioma_9,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_308,mri_image_09,image09.dcm,2.5-3.5cm,TRUE,FALSE
+Dural_Meningioma_10,http://example.org/meningioma#Evaluation_of_dura,http://example.org/meningioma#internalID,M_Meningioma_309,mri_image_10,image10.dcm,> 4cm,FALSE,TRUE
